@@ -6,8 +6,8 @@ Though we eulogize about how change is the only constant. There are many things 
 
 Constantine is a single package that will help to capture, all the constants, of the world, physical or theoretical.
 - Radius of the earth
-- Planks constant
-- Avegadro number
+- Plancks constant
+- Avogadro number
 - Value of PI
 
 It could also include commodity constanst like.
