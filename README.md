@@ -17,6 +17,8 @@ It could also include commodity constanst like.
 
 ## Why Constantine?
 
+Technically, create a usable package that will have waelth of information about various constants in the world, that could be accessed programmatically for various purposes.
 
+Socially, generate information on an open collaboration platform. This way its just a lot of people commining together believe that even constants are important ;)
 
 
